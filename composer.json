@@ -1,8 +1,8 @@
 {
-    "name": "laravel/laravel",
+    "name": "cineplex/laravel",
     "type": "project",
-    "description": "The Laravel Framework.",
-    "keywords": ["framework", "laravel"],
+    "description": "Clone a theater reservation system in laravel.",
+    "keywords": ["theater", "laravel"],
     "license": "MIT",
     "require": {
         "php": "^8.0.2",
